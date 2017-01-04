@@ -1,10 +1,11 @@
 package versionning;
 
+import versionning.ldap.LdapRetriever;
+
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		LdapRetriever.getInstance();
 	}
 
 }
