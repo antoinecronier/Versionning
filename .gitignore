@@ -5,6 +5,7 @@
 /config/
 /libs/
 /download/
+/vendors/
 !gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
