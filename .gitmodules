@@ -1,0 +1,9 @@
+[submodule "vendors/JavaJackson"]
+	path = vendors/JavaJackson
+	url = https://github.com/antoinecronier/JavaJackson.git
+[submodule "vendors/JavaLdap"]
+	path = vendors/JavaLdap
+	url = https://github.com/antoinecronier/JavaLdap.git
+[submodule "vendors/JavaJsonCRUD"]
+	path = vendors/JavaJsonCRUD
+	url = https://github.com/antoinecronier/JavaJsonCRUD.git
